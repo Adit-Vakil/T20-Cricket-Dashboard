@@ -1,0 +1,14 @@
+# Power BI
+*.pbix.tmp
+*~$*.pbix
+*.ldf
+*.mdf
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor
+.vscode/
+.idea/
